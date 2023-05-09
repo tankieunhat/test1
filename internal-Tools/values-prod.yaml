@@ -1,0 +1,28 @@
+tag: 8e31430
+apolloBucket:
+  name: apollo-share
+merchants:
+  merchants.txt: |-
+    MID00110
+    MID00112
+    MID00106
+    MID00004
+    MID00107
+    MID00415
+    MID00117
+    MID00111
+    MID00120
+    MID00114
+    MID00415
+    MID00118
+    MID00003
+    MID00108
+    MID00002
+    MID00103
+    MID00119
+    MID00105
+    MID00115
+    MID00113
+    MID00104
+    MID00101
+    MID00102
